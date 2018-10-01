@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/desk-rebellion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/lez/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/paytrack/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/period-flow/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/singa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/top-forma/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/udomi/</loc>
+  </url>
+  
+</urlset>
