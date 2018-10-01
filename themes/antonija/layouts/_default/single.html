@@ -1,0 +1,33 @@
+{{ define "main" }}
+  <section class="single-project">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-three-quarters">
+          <a class="back" href="/">
+            <img src="/images/tail-left.svg" alt="">
+            <i>Back</i>
+          </a>
+          <h1>{{ .Title }}</h1>
+          <h2>{{ .Params.Description }}</h2>
+          <img class="primary-image" src="{{ .Params.Image }}" alt="{{ .Title }}">
+          {{ .Content }}
+
+          {{ if isset .Params "live" }}
+            <div class="live">
+              <h3>View Live</h3>
+              {{ if isset .Params "ios" }}
+                <a href="{{ .Params.Ios }}"><img src="/images/appstore.png" alt="Download {{ .Title }} on AppStore"></a>
+              {{ end }}
+              {{ if isset .Params "android" }}
+                <a href="{{ .Params.Android }}"><img src="/images/googleplay.png" alt="Download {{ .Title }} on GooglePlay"></a>
+              {{ end }}
+              {{ if isset .Params "web" }}
+                <a href="{{ .Params.Web }}"><img src="/images/web.png" alt="View {{ .Title }} online"></a>
+              {{ end }}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}  
