@@ -22,7 +22,7 @@ Solution
 ### PROCESS
 I used Foundation 6 for CSS framework with light styling, I wanted to focus more on the backend of the app. I knew I need a landing, search results, profile, ad creation, and a dashboard. I didn't have any backend experience prior to this project so I have chosen Laravel because the community is huge and there is the answer to every problem. Also, video tutorials helped me understand this framework in just a couple of weeks. After a couple of months, I had the working app. I implemented transactional emails through Mailgun and I am using deployHQ for easy updates.
 
-<img class="image-spacer-solo" src="images/udomi_profil.jpg">
+<img class="image-spacer-solo" src="/images/udomi_profil.jpg">
 
 ### OUTCOME
 My project was picked up by one of the biggest news publications in Croatia. Initial attention drew users and now there are about 300+ unique users every month with no marketing effort.

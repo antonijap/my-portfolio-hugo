@@ -18,4 +18,4 @@ The core of the app is a calendar that shows periods and estimation of the next 
 ### OUTCOME
 It was a fun project and I learned a lot. My plan is to revamp it completely, provide an even better interface with cloud backup and offer a solution for Android as well. I already started with version 2!
 
-<img class="image-spacer-solo" src="images/period-flow_2.jpg">
+<img class="image-spacer-solo" src="/images/period-flow_2.jpg">

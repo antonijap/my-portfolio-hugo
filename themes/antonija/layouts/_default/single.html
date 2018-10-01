@@ -9,7 +9,7 @@
           </a>
           <h1>{{ .Title }}</h1>
           <h2>{{ .Params.Description }}</h2>
-          <img class="primary-image" src="{{ .Params.Image }}" alt="{{ .Title }}">
+          <img class="primary-image" src="/{{ .Params.Image }}" alt="{{ .Title }}">
           {{ .Content }}
 
           {{ if isset .Params "live" }}

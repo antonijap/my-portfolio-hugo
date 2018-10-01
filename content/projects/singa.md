@@ -27,18 +27,18 @@ I realized a registration form has one input that is not utilized anywhere, so a
 Profile section is now completely redesigned and has much more functionality. From recently, we have a proper off-boarding flow to reduce churn and help users resolve potential issues that might lead to cancellation of service.
 Other improvements include a new modern typeface, usage of a grid system, a new payment form etc.
 
-<img class="image-spacer" src="images/singa_web_mockups.jpg">
-<img src="images/singa_web.jpg">
+<img class="image-spacer" src="/images/singa_web_mockups.jpg">
+<img src="/images/singa_web.jpg">
 
 ### PROCESS FOR IOS AND ANDRIOD
 As in the web, navigation was very hard to use and it needed to be redesigned in order to elevate user experience to a next level. It used to be a hamburger navigation with a whole search functionality crammed into a side-panel that took less than 50% of screen estate when active. I switched to a tab bar navigation and made search prominent as a separate tab bar item. Since search is crucial to Singa, I updated the design of the search results to reflect the newest trends and best practices.
 
-<img class="image-spacer" src="images/singa_mobile.jpg">
+<img class="image-spacer" src="/images/singa_mobile.jpg">
 
 ### OUTCOME
 After a few months of hard work, numbers started to grow on all platforms. iOS had the biggest growth. The app even got picked up by Apple in their collections that drove even more users.
 
-<img class="image-spacer" src="images/singa_promo.jpg">
+<img class="image-spacer" src="/images/singa_promo.jpg">
 
 ### ADDITIONAL PROJECTS
 Along with mobile and web apps, there is a professional iPad app for BTB clients, Apple TV, and Android TV apps and a small web app for sending song requests to KJs from within venues with Singa PRO system installed.

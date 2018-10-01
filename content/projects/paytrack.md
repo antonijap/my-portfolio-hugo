@@ -16,4 +16,4 @@ Flight attendants don't have a fixed salary, it is based on working hours and a 
 ### PROCESS
 As my friend was a target audience I gathered the majority of information from him, but we asked others for feedback as well. I decided to display a calendar on the main view, and then use colors to mark the working days. The user flow starts by tapping on the desired date and filing the necessary information about the flight. The main view always contains the information that is useful for flight attendants.
 
-<img class="image-spacer-solo" src="images/paytrack_mockups.jpg">
+<img class="image-spacer-solo" src="/images/paytrack_mockups.jpg">

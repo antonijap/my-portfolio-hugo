@@ -19,4 +19,4 @@ The first phase was to develop mobile apps. I provided developers with both iOS 
 ### OUTCOME
 We did testing with some nutritionists and after a couple of months we were happy with the interface and intended user experience. I also assisted the developer in the development phase by exporting assets and providing solutions for various states and errors.
 
-<img class="image-spacer-solo" src="images/topforma_screens.png">
+<img class="image-spacer-solo" src="/images/topforma_screens.png">

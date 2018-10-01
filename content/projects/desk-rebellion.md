@@ -10,5 +10,5 @@ Desk Rebellion was a short-term project for a client. It is a workout app for pe
 ### PROCESS
 PayTrack is an iOS app for managing and tracking flight attendants monthly salary. I am collaborating on the project as an UI/UX designer. There are plenty of parameters that have to be taken into account when calculating salary, so the main goal of this app is to simplify that process and be super easy to use. The app will soon be released to the App Store. The new version of the app is planned for the next major update and will feature dark interface.
 
-<img class="image-spacer" src="images/dr_mockup.jpg">
-<img src="images/dr_screens.jpg">
+<img class="/image-spacer" src="images/dr_mockup.jpg">
+<img src="/images/dr_screens.jpg">
