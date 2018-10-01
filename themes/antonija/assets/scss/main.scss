@@ -58,9 +58,19 @@ body {
 
   .project-item {
     position: relative;
+    overflow: hidden;
+    max-height: 374px;
+    margin-bottom: .5em;
+    border-radius: $border-radius;
 
     a {
       color: white;
+      img {
+        transition: all 400ms ease-out;
+        &:hover {
+          transform: scale(1.05);
+        }
+      }
     }
 
     h3 {
