@@ -2,7 +2,7 @@
 title: "Singa"
 order: 1
 description: "Singa is the only karaoke-streaming startup in the world offering a fresh and new singing experience."
-image: "https://uploads-ssl.webflow.com/5b9ba336b759ef413f58b969/5b9fe5fb8a634e5a23fd5199_singa-p-1600.jpeg"
+image: "/images/singa.jpg"
 live: true
 ios: "https://itunes.apple.com/fi/app/singa-sing-karaoke-lyrics/id802874608?mt=8" 
 android: "https://play.google.com/store/apps/details?id=com.singa.client&hl=en"
