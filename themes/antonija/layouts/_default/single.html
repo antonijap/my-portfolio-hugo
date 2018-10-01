@@ -16,13 +16,13 @@
             <div class="live">
               <h3>View Live</h3>
               {{ if isset .Params "ios" }}
-                <a href="{{ .Params.Ios }}"><img src="images/appstore.png" alt="Download {{ .Title }} on AppStore"></a>
+                <a href="{{ .Params.Ios }}"><img src="/images/appstore.png" alt="Download {{ .Title }} on AppStore"></a>
               {{ end }}
               {{ if isset .Params "android" }}
-                <a href="{{ .Params.Android }}"><img src="images/googleplay.png" alt="Download {{ .Title }} on GooglePlay"></a>
+                <a href="{{ .Params.Android }}"><img src="/images/googleplay.png" alt="Download {{ .Title }} on GooglePlay"></a>
               {{ end }}
               {{ if isset .Params "web" }}
-                <a href="{{ .Params.Web }}"><img src="images/web.png" alt="View {{ .Title }} online"></a>
+                <a href="{{ .Params.Web }}"><img src="/images/web.png" alt="View {{ .Title }} online"></a>
               {{ end }}
             </div>
           {{ end }}
