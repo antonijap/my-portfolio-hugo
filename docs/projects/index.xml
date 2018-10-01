@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on My New Hugo Site</title>
-    <link>http://example.org/projects/</link>
-    <description>Recent content in Projects on My New Hugo Site</description>
+    <title>Projects on Antonija Pek | Product Designer</title>
+    <link>http://antonijapek.com/projects/</link>
+    <description>Recent content in Projects on Antonija Pek | Product Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://antonijapek.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desk Rebellion</title>
-      <link>http://example.org/projects/desk-rebellion/</link>
+      <link>http://antonijapek.com/projects/desk-rebellion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/desk-rebellion/</guid>
+      <guid>http://antonijapek.com/projects/desk-rebellion/</guid>
       <description>PROJECT INTRO Desk Rebellion was a short-term project for a client. It is a workout app for people working. It supposed to remind you to stretch and do a little workout in order to avoid back pain. I was hired by an iOS developer to conduct a research and design an app.
 PROCESS PayTrack is an iOS app for managing and tracking flight attendants monthly salary. I am collaborating on the project as an UI/UX designer.</description>
     </item>
     
     <item>
       <title>Lez</title>
-      <link>http://example.org/projects/lez/</link>
+      <link>http://antonijapek.com/projects/lez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/lez/</guid>
+      <guid>http://antonijapek.com/projects/lez/</guid>
       <description>PROJECT INTRO I have been working on my Swift skills for a couple of years and I decided to make more complex app. This time I didn&amp;rsquo;t use storyboards, the user interface was done through code with Snapkit. The backbone of Lez is Firestore and Pusher handles push notifications. The first version is just released, next step is acquiring users. I will write more about that in next few months.</description>
     </item>
     
     <item>
       <title>PayTrack</title>
-      <link>http://example.org/projects/paytrack/</link>
+      <link>http://antonijapek.com/projects/paytrack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/paytrack/</guid>
+      <guid>http://antonijapek.com/projects/paytrack/</guid>
       <description>PROJECT INTRO This was one of my early projects, I was hired by a friend who works as a flight attendant and develops apps in free time. He was struggling with tracking hours and all sorts of parameters that determine final salary. He was not the only one, many struggled and were sometimes paid less because they never knew the final number. He decided to make a tool which only needs a light input from flight attendants and then it calculates salary in the background.</description>
     </item>
     
     <item>
       <title>Period Flow</title>
-      <link>http://example.org/projects/period-flow/</link>
+      <link>http://antonijapek.com/projects/period-flow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/period-flow/</guid>
+      <guid>http://antonijapek.com/projects/period-flow/</guid>
       <description>PROJECT INTRO Many females use digital menstrual trackers and I am one of them but every tracker I used had unnecessary complexity and it seemed all focus is on pregnancy when this is not the real case with the majority of the months and for some females, it&amp;rsquo;s never the case. I started to learn Swift so this project seemed like a great playground for improving skills and learning more.</description>
     </item>
     
     <item>
       <title>Singa</title>
-      <link>http://example.org/projects/singa/</link>
+      <link>http://antonijapek.com/projects/singa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/singa/</guid>
+      <guid>http://antonijapek.com/projects/singa/</guid>
       <description>PROJECT INTRO I was hired as a full-time product designer. I am responsible for UI/UX of all apps (BTB and BTC) on various platforms. I also assist sales and marketing teams with graphical assets and videography. When I first came to Singa I had to detect friction points and downsides of products and I did that using analytical tools that were at my disposal. Once I detected what was keeping sales from going up, I revamped information architecture and provided refreshed designs while at it.</description>
     </item>
     
     <item>
       <title>TopForma</title>
-      <link>http://example.org/projects/top-forma/</link>
+      <link>http://antonijapek.com/projects/top-forma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/top-forma/</guid>
+      <guid>http://antonijapek.com/projects/top-forma/</guid>
       <description>PROJECT INTRO I was hired to improve user experience and design user interface. This app is intended for clients that interact with nutritionists in TopForma. Every client gets a specialized diet based on a survey they fill prior to usage. The process is repeated every month. App provides recipes for each day, basic analytics, communication with nutritionists and customer support and shopping list.
 It was an exciting and challenging task as every section of the app is vastly different from another, yet interface and flow needed to be simple, logical and easy to use.</description>
     </item>
     
     <item>
       <title>Udomi.net</title>
-      <link>http://example.org/projects/udomi/</link>
+      <link>http://antonijapek.com/projects/udomi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/udomi/</guid>
+      <guid>http://antonijapek.com/projects/udomi/</guid>
       <description>PROJECT INTRO I have a soft spot for animals and I have been volunteering for at least a decade, since my teens. I was helping to the best of my abilities and through volunteering, I noticed that the majority of associations and volunteers don&amp;rsquo;t really know how to advertise animals and they don&amp;rsquo;t even consider being digitally present.
 SOLVING PROBLEM I knew most of animal rescue association didn&amp;rsquo;t have a website, some aren&amp;rsquo;t digitally present in any way.</description>
     </item>

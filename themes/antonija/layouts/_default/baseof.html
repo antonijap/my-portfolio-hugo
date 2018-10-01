@@ -12,7 +12,7 @@
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre:regular,500,700%7CChivo:300,300italic,regular,italic,700,700italic,900,900italic">
 
-    {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
+    {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
     <link rel="stylesheet" href="css/lity.min.css">
 </head>
