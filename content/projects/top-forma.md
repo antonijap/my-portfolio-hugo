@@ -2,7 +2,7 @@
 title: "TopForma"
 order: 5
 description: "TopForma is a unique platform for managing diet with professional nutritionists."
-image: "/images/topforma.jpg"
+image: "images/topforma.jpg"
 ---
 ### PROJECT INTRO
 I was hired to improve user experience and design user interface. This app is intended for clients that interact with nutritionists in TopForma. Every client gets a specialized diet based on a survey they fill prior to usage. The process is repeated every month. App provides recipes for each day, basic analytics, communication with nutritionists and customer support and shopping list.
@@ -19,4 +19,4 @@ The first phase was to develop mobile apps. I provided developers with both iOS 
 ### OUTCOME
 We did testing with some nutritionists and after a couple of months we were happy with the interface and intended user experience. I also assisted the developer in the development phase by exporting assets and providing solutions for various states and errors.
 
-<img class="image-spacer-solo" src="/images/topforma_screens.png">
+<img class="image-spacer-solo" src="images/topforma_screens.png">
