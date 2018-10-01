@@ -54,6 +54,17 @@
         </footer>
     </div>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58710414-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-58710414-1');
+    </script>
+
+
     {{ $jquery := resources.Get "js/jquery/dist/jquery.min.js" }}
     {{ $lity := resources.Get "js/lity/dist/lity.min.js" }}
     {{ $mainjs := resources.Get "js/main.js" }}
